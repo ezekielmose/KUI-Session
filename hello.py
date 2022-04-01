@@ -1,3 +1,2 @@
-#this is my dummy program
-
-print (Hello Mose!!)
+print ("Hello Mose!!")
+print ("We are on another Branch")
